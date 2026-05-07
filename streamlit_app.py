@@ -8,8 +8,6 @@ st.title(":cup_with_straw: Customize Your Smoothie! :cup_with_straw:")
 #st.title('My Parents New Healthy Diner')
 st.write(
   """Choose the fruits you want in your custom Smoothie!
-  **check out our easy-to-follow guides at**
-  [docs.streamlit.io](https://docs.streamlit.io).
   """
 )
 cnx = st.connection("snowflake")
